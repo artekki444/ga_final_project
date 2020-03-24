@@ -1,11 +1,25 @@
 Final Project Proposal 
 
-Hypothesis/Assumptions 
+Dataset: Instacart Orders 
 
-Data
 
-Goals and Success Metrics
+1. Hypothesis/Assumptions 
+
+Hypothesis: As a user orders more often, the variety of product category increases. 
+
+As users get more familiarized ordering from Instacart, I want to test if they are exploring their options in other categories. 
+I am assuming there are main or usual categories that repeat vs other items they might buy here and there. 
+I want to explore the data and see if the size of users' shopping carts are becoming more variety and bigger as they purchase more. 
+
+2. Goals and Success Metrics
+
+I would like to track: 
+	a) users purchase data and see which categories are most vs least popular. 
+	b) size of shopping cart based on order frequency 
+	c) numbers of product categories in shopping cart 
+	d) correlation between numbers of product categories and order frequency 
 
 
 Risk or Limiations 
-
+	a) Popularity of orders in product category can be highly skewed. 
+	b) Business is highly concentrated on very selective products. 
